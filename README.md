@@ -36,10 +36,12 @@ Document owner|杨松浩
 
 ### api需求列表
 
-华为云通用文字识别<a href="https://cloud.tencent.com/act/pro/ai_ocr?fromSource=gwzcw.3185254.3185254.3185254&utm_medium=cpc&utm_id=gwzcw.3185254.3185254.3185254">
+华为云通用文字识别<a href="https://cloud.tencent.com/act/pro/ai_ocr?fromSource=gwzcw.3185254.3185254.3185254&utm_medium=cpc&utm_id=gwzcw.3185254.3185254.3185254"></a>
+
 	
 百度API-图像审核<a href="http://ai.baidu.com/tech/imagecensoring"></a>
-腾讯开放平台-纠错API<p><a href="http://wiki.open.qq.com/wiki/%E7%BA%A0%E9%94%99API"></a></p>
+
+腾讯开放平台-纠错API<a href="http://wiki.open.qq.com/wiki/%E7%BA%A0%E9%94%99API"></a>
 ## 用户需求
 标题|用户案例|重要程度|笔记
 :--:|:--:|:--:|:--:
@@ -57,14 +59,23 @@ Document owner|杨松浩
 
 #### 竞品分析
 * 万能拍照识别APP：内含多种识别功能（没有纠错、没有编辑、没有文件夹）
+
 * 全能扫描王：高清扫描、智能管理、批注（没有纠错与编辑功能）
+
 * 各系统（如安卓），APP的文字识别插件，识别效果差
+
 ![jieguo]()
+
 #### 加值宣言
+
  在与市面现有的文字识别同样功能基础上，加入纠错，以弥补当前文字识别的缺陷
+ 
 #### 核心价值
+
 * 通过拍照/上传图片的方式进行文字识别，得到文本
+
 * 将得到的文本进行纠错
+
 #### 产品概率性考量
 * 对于清晰，字体易辩的图片，识别准确率高
 * 对于清晰度不高，识别成功的概率高于上述竞品，识别结果准确率会降低
