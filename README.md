@@ -52,10 +52,10 @@ Document owner|杨松浩
 
 
 ### 产品架构
-![jiagou](http://mckccdc.gitee.io/api-yaunxing)
+[jiagou](http://mckccdc.gitee.io/api-yaunxing)
 
 ### 产品原型
-![yuanxing](http://mckccdc.gitee.io/api-yaunxing)
+[yuanxing](http://mckccdc.gitee.io/api-yaunxing)
 
 #### 竞品分析
 * 万能拍照识别APP：内含多种识别功能（没有纠错、没有编辑、没有文件夹）
@@ -64,7 +64,7 @@ Document owner|杨松浩
 
 * 各系统（如安卓），APP的文字识别插件，识别效果差
 
-![jieguo]()
+[jieguo]()
 
 #### 加值宣言
 
