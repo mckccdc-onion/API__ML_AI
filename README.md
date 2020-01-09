@@ -199,5 +199,4 @@ Document owner|杨松浩
 * 与腾讯云相比，百度文字识别API性价比高
 <p><a href="https://cloud.baidu.com/calculator.html#/ocr/price">百度云</a></p>
 
-### 产品下载
-<p><a href="">产品原型</a></p>
+
