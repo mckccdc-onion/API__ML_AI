@@ -52,10 +52,10 @@ Document owner|杨松浩
 
 
 ### 产品架构
-![jiagou](file:///C:/Users/58454/Desktop/api/api-final/product%20prototype/start.html#g=1&p=产品结构)
+![jiagou](file:///C:/Users/58454/Desktop/api/api-yaunxing/start.html#g=1&p=产品结构)
 
 ### 产品原型
-![yuanxing](file:///C:/Users/58454/Desktop/api/api-final/product%20prototype/start.html#g=1&p=四页)
+![yuanxing](file:///C:/Users/58454/Desktop/api/api-yaunxing/start.html#g=1&p=首页)
 
 #### 竞品分析
 * 万能拍照识别APP：内含多种识别功能（没有纠错、没有编辑、没有文件夹）
