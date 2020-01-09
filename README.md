@@ -64,7 +64,7 @@ Document owner|杨松浩
 
 * 各系统（如安卓），APP的文字识别插件，识别效果差
 
-[jieguo]()
+！[jieguo](ch.png)
 
 #### 加值宣言
 
