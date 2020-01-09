@@ -195,7 +195,7 @@ Document owner|杨松浩
  华为云通用文字识别图像规格要求高，上传照片经常失败，且URL只能用华为OBS授权的图片，普通百度上的图片URL无法输出，百度通用文字识别API准确度较高
 
 ### 使用后风险报告
-![price]()
+![price](much.PNG)
 * 与腾讯云相比，百度文字识别API性价比高
 <p><a href="https://cloud.baidu.com/calculator.html#/ocr/price">百度云</a></p>
 
